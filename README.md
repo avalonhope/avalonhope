@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avalonhope
-- 👀 I’m interested in muti-user TPGs and interactive fiction
-- 🌱 I’m currently learning Python and Evennia
+- 👀 I’m interested in muti-user RPGs and interactive fiction
+- 🌱 I’m currently learning Evennia
 - 💞️ I’m looking to collaborate on Starquest.vineyard.haus
 - 📫 How to reach me mudhaven.net/~avalon
