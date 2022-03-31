@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avalonhope
 - 👀 I’m interested in muti-user RPGs, interactive fiction and using AI for software testing
-- 🌱 I’m currently learning Evennia, Deal and Hypothesis
-- 💞️ I’m looking to collaborate on https://Starquest.vineyard.haus
-- 📫 How to reach me https://mudhaven.net/~avalon
+- 🌱 I’m currently learning about Reinforcement Learning
+- 💞️ I’m looking to collaborate on https://starquest.forumotion.com
+- 📫 How to reach me https://mudhaven.net/~avalon or https://starquest.vineyard.haus
