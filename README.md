@@ -2,4 +2,4 @@
 - 👀 I’m interested in muti-user RPGs, interactive fiction, science fiction (space opera genre) and medieval fantasy.
 - 🌱 I’m currently learning about Test Driven Development (TDD) with Python.
 - 💞️ I’m looking to collaborate on https://starquest.forumotion.com
-- 📫 How to reach me https://mudhaven.net/~avalon or https://starquest.vineyard.haus
+- 📫 How to reach me https://starquest.vineyard.haus
