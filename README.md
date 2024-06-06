@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @avalonhope
-- 👀 I’m interested in muti-user RPGs, interactive fiction, science fiction (space opera genre) and medieval fantasy.
-- 🌱 I’m currently learning about Test Driven Development (TDD) with Python.
-- 💞️ I’m looking to collaborate on https://starquest.forumotion.com
-- 📫 How to reach me https://starquest.vineyard.haus
+- 👋 Hi, I’m Avalon Hope @avalonhope
+- 👀 I’m interested in using Generative AI for Interactive Fiction and Text-based RPGs
+- 🌱 I’m currently learning about the Evennia framework for Python
+- 💞️ I’m looking to collaborate on the Grand Ensemble Multiverse (Hyperverse) RPG
+- 📫 How to reach me
+-   - Discord
+    - Star Wars Combine (Trade Federation)
+    - Browser Quests
+    - Might and Fealty (Vale of Hope)
+    - Text Spaced (Fellowship of Light)
+- Hobbies: Digital Photography (Nature, Wildlife and Landscapes)
+- 
