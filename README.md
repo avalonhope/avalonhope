@@ -8,5 +8,6 @@
     - Browser Quests
     - Might and Fealty (Vale of Hope)
     - Text Spaced (Fellowship of Light)
-- Hobbies: Digital Photography (Nature, Wildlife and Landscapes)
+- Hobbies:
+    - Digital Photography (Nature, Wildlife and Landscapes)
  
