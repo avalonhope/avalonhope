@@ -2,7 +2,7 @@
 - 👀 I’m interested in using Generative AI for Interactive Fiction and Text-based RPGs
 - 🌱 I’m currently learning about the Evennia framework for Python
 - 💞️ I’m looking to collaborate on the Grand Ensemble Multiverse (Hyperverse) RPG
-- 📫 How to reach me
+- 📫 How to reach me:
     - Discord
     - Star Wars Combine (Trade Federation)
     - Browser Quests
