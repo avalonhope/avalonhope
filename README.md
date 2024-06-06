@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning about the Evennia framework for Python
 - 💞️ I’m looking to collaborate on the Grand Ensemble Multiverse (Hyperverse) RPG
 - 📫 How to reach me
--   - Discord
+    - Discord
     - Star Wars Combine (Trade Federation)
     - Browser Quests
     - Might and Fealty (Vale of Hope)
     - Text Spaced (Fellowship of Light)
 - Hobbies: Digital Photography (Nature, Wildlife and Landscapes)
-- 
+ 
