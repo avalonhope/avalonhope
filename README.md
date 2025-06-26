@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning about the Evennia framework for Python
 - 💞️ I’m looking to collaborate on writing new modules for BrowserQuests.com 
 - 📫 How to reach me:
-    - Discord
-    - Star Wars Combine (Trade Federation)
-    - Browser Quests (Avalon Hope)
-    - Might and Fealty (Vale of Hope)
-    - Text Spaced (Fellowship of Light)
+    - Star Wars Combine
+    - Might and Fealty
+    - Text Spaced
 - Hobbies:
     - Digital Photography (Nature, Wildlife and Landscapes)
  
